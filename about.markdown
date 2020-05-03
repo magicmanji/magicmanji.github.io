@@ -1,6 +1,6 @@
 ---
 layout: page
-title: アバウト
+title: アバウトバウト
 permalink: /about/
 ---
 
