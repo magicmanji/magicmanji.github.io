@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title: 概要
 
 ---
-*iOSjbAutoTouchEtcへようこそ*
-
+このサイトではAutoTouchを利用したマクロ開発の情報共有を目的としています。
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/OWoKzNxZWw8" 
